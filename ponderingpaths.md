@@ -29,9 +29,10 @@ pwn.college{ Eux-VoY2j9KBFwvhj14CNFGFn4w.QX4cTO0wCM2AzNzEzW}
 ### References:
 
 - [link 1](https://pwn.college)
-- 
+  
 ### Notes:
 
 The root of the filesystem is a directory written as /.You refer to files and directories by their path.
 A path from the root of the filesystem starts with / (that is, the root of the filesystem)
+
 
