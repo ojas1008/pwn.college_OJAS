@@ -10,9 +10,6 @@ Start the challenge, launch a terminal, invoke the pwn program using its absolut
 
 Since we have to write absolute path and invoke pwn.We will start from / as it denotes the root directory then directly write pwn as pwn is present right in /.
 
-- 
-- 
-- 
 
 Use this blob for pasting commands you've run
 ```sh
@@ -37,3 +34,4 @@ pwn.college{ Eux-VoY2j9KBFwvhj14CNFGFn4w.QX4cTO0wCM2AzNzEzW}
 
 The root of the filesystem is a directory written as /.You refer to files and directories by their path.
 A path from the root of the filesystem starts with / (that is, the root of the filesystem)
+
